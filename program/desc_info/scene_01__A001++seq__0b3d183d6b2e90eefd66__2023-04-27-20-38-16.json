@@ -1,0 +1,18 @@
+{
+    "(None, (1095, 1467))": {
+        "seg_desc": "Press the button on the scale.",
+        "seg_desc_zh": "按下秤上的按钮。"
+    },
+    "((1595, 2340), None)": {
+        "seg_desc": "Place the bowl onto the platform of the scale.",
+        "seg_desc_zh": "将碗放置于秤的平台上。"
+    },
+    "(None, (2336, 2840))": {
+        "seg_desc": "Press the button on the scale.",
+        "seg_desc_zh": "按下秤上的按钮。"
+    },
+    "(None, (3228, 5634))": {
+        "seg_desc": "Pour the content from the tall blue mug to the bowl.",
+        "seg_desc_zh": "将内容从较高的蓝色马克杯倒到碗。"
+    }
+}

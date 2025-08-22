@@ -1,0 +1,54 @@
+{
+    "(None, (1095, 1467))": {
+        "primitive": "press_button",
+        "obj_list": [
+            "O02@0038@00001"
+        ],
+        "interaction_mode": "rh_main",
+        "primitive_lh": null,
+        "primitive_rh": "press_button",
+        "obj_list_lh": null,
+        "obj_list_rh": [
+            "O02@0038@00001"
+        ]
+    },
+    "((1595, 2340), None)": {
+        "primitive": "place_onto",
+        "obj_list": [
+            "C12001"
+        ],
+        "interaction_mode": "lh_main",
+        "primitive_lh": "place_onto",
+        "primitive_rh": null,
+        "obj_list_lh": [
+            "C12001"
+        ],
+        "obj_list_rh": null
+    },
+    "(None, (2336, 2840))": {
+        "primitive": "press_button",
+        "obj_list": [
+            "O02@0038@00001"
+        ],
+        "interaction_mode": "rh_main",
+        "primitive_lh": null,
+        "primitive_rh": "press_button",
+        "obj_list_lh": null,
+        "obj_list_rh": [
+            "O02@0038@00001"
+        ]
+    },
+    "(None, (3228, 5634))": {
+        "primitive": "pour",
+        "obj_list": [
+            "S10021"
+        ],
+        "interaction_mode": "rh_main",
+        "primitive_lh": null,
+        "primitive_rh": "pour",
+        "obj_list_lh": null,
+        "obj_list_rh": [
+            "S10021"
+        ]
+    }
+}

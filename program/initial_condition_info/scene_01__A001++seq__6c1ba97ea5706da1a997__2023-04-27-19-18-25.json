@@ -1,0 +1,11 @@
+{
+    "initial_condition": [
+        "There is a scale in the center of the table.",
+        "There is a plate in the front left area of the table.",
+        "The plate contains a donut.",
+        "There is another plate that is empty in the right area of the table."
+    ],
+    "recipe": [
+        "The donut in the plate is weighed with the scale."
+    ]
+}

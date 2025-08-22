@@ -1,0 +1,18 @@
+{
+    "((1746, 3852), (1334, 3880))": {
+        "primitive": "unscrew",
+        "obj_list": [
+            "O02@0015@00001",
+            "O02@0015@00002"
+        ],
+        "interaction_mode": "lh_main",
+        "primitive_lh": "unscrew",
+        "primitive_rh": "hold",
+        "obj_list_lh": [
+            "O02@0015@00001"
+        ],
+        "obj_list_rh": [
+            "O02@0015@00002"
+        ]
+    }
+}

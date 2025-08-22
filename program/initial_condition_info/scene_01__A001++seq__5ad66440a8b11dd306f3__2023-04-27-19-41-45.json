@@ -1,0 +1,12 @@
+{
+    "initial_condition": [
+        "There is a bowl in the center of the table.",
+        "There is a gray-green porcelain bottle that contains some drinks in the front right area of the table. The bottle is open.",
+        "There is a plate that contains some ice cubes in the front left area of the table.",
+        "There is a spoon on the tool rack in the right area of the table.",
+        "There is a pair of tongs in the right area of the table."
+    ],
+    "recipe": [
+        "Two spoonfuls of drink is transferred into the bowl and is cooled by three ice cubes."
+    ]
+}

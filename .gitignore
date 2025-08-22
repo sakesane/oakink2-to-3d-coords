@@ -1,0 +1,17 @@
+*.sw*
+*.bak
+*_bak.py
+
+.vscode/
+.cache/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+build/
+dist/
+test/
+manotorch.egg-info/
+thirdparty/
+data/
+3d_coordinates/
+anno_preview/

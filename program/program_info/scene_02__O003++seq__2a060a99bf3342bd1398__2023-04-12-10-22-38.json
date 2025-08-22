@@ -1,0 +1,18 @@
+{
+    "((1407, 4497), (1076, 5066))": {
+        "primitive": "brush_whiteboard",
+        "obj_list": [
+            "O02@0054@00001",
+            "O02@0055@00001"
+        ],
+        "interaction_mode": "rh_main",
+        "primitive_lh": "hold",
+        "primitive_rh": "brush_whiteboard",
+        "obj_list_lh": [
+            "O02@0054@00001"
+        ],
+        "obj_list_rh": [
+            "O02@0055@00001"
+        ]
+    }
+}
